@@ -58,6 +58,7 @@ aside {
   flex: 0 1 30%;
   align-items: flex-end;
   flex-direction: column;
+  padding-right: 30px;
 }
 
 aside ul {
@@ -78,7 +79,6 @@ aside li {
 img {
   border-radius: 50%;
   width: 220px;
-  padding-left: 45px;
 }
 
 .name {
